@@ -81,16 +81,16 @@ pip install -r requirements.txt
 
 ### Accuracy Score
 
-![Accuracy](screenshots/accuracy.png)
+![Accuracy](Screenshots/Accuracy_Score.png)
 
 ### Confusion Matrix
 
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](Screenshots/Confusion_Matrix.png)
 
 ### Sentiment Distribution
 
-![Graph](screenshots/graph.png)
+![Graph](Screenshots/Graph.png)
 
 ### Future Predictions
 
-![Prediction](screenshots/prediction.png)
+![Prediction](Screenshots/Prediction.png)
