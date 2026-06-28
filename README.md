@@ -77,3 +77,20 @@ pip install -r requirements.txt
 - Improve UI for predictions
 
 ---
+## 📸 Project Output
+
+### Accuracy Score
+
+![Accuracy](screenshots/accuracy.png)
+
+### Confusion Matrix
+
+![Confusion Matrix](screenshots/confusion_matrix.png)
+
+### Sentiment Distribution
+
+![Graph](screenshots/graph.png)
+
+### Future Predictions
+
+![Prediction](screenshots/prediction.png)
